@@ -117,9 +117,9 @@ document.querySelector('#app').innerHTML = `
            )}
          
            ${createCard("02/12","sexta",
-           createGame("coreia","07:00","portugal")+
-           createGame("gana","10:00","uruguai")+
-           createGame("servia","13:00","suiça")+
+           createGame("coreia","12:00","portugal")+
+           createGame("gana","12:00","uruguai")+
+           createGame("servia","16:00","suiça")+
            createGame("brasil","16:00","camaroes")
            )}
         
